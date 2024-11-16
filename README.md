@@ -9,3 +9,8 @@ probando codigo
 - administrador -> crud de admin x
 - usuario -> ver estado de habitaciones disponibles 
 - vista de pago de cliente y reserva habitacion (historial)
+
+## Tareas pendientes  
+- falta implementar el patron Facade de AdminUsuarioController
+- falta implementar el patorn observer de las reservas
+- falta agregar el patron proxy 
